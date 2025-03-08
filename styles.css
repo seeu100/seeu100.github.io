@@ -1,0 +1,116 @@
+/* 基础样式 */
+body {
+  margin: 0;
+  padding: 20px;
+  font-family: 'Segoe UI', sans-serif;
+  background: #f0f2f5;
+}
+
+.container {
+  max-width: 98%;
+  margin: 0 auto;
+}
+
+/* 网格布局 */
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: 12px;
+  padding: 12px 0;
+}
+
+/* 链接卡片样式 */
+.link-card {
+  background: white;
+  border-radius: 6px;
+  padding: 8px;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+  transition: transform 0.2s;
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: #333;
+}
+
+.link-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+}
+
+.link-icon {
+  width: 24px;
+  height: 24px;
+  margin-right: 8px;
+  border-radius: 4px;
+}
+
+.link-card span {
+  font-size: 14px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* 响应式设计 */
+@media (max-width: 768px) {
+  .grid-container {
+    grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+  }
+}
+
+/* 分类标题样式 */
+.category-section h2 {
+  color: #2c3e50;
+  font-size: 1.3rem;
+  margin: 20px 0 10px;
+  padding-bottom: 8px;
+  border-bottom: 2px solid #3498db;
+}
+
+/* 分类区块间距 */
+.category-section {
+  margin-bottom: 20px;
+}
+
+/* 折叠列表样式 */
+.sub-category {
+  margin-left: 20px;
+  display: none;
+}
+
+.sub-category.active {
+  display: block;
+}
+
+.category-title {
+  cursor: pointer;
+  padding-left: 20px;
+  position: relative;
+  font-size: 1.1rem;
+  margin: 15px 0 10px;
+}
+
+.category-title::before {
+  content: '▶';
+  position: absolute;
+  left: 0;
+  transition: transform 0.2s;
+  font-size: 0.8em;
+}
+
+.category-title.active::before {
+  transform: rotate(90deg);
+}
+
+/* 调整二级标题样式 */
+.sub-category h2 {
+  font-size: 1.1rem;
+  margin: 12px 0 8px;
+  padding-bottom: 6px;
+  border-bottom: 1px solid #3498db;
+}
+
+/* 链接卡片在二级分类中的样式 */
+.sub-category .grid-container {
+  margin-left: 20px;
+}
