@@ -21,7 +21,7 @@
   - [GPT-4 Turbo](https://openai.com/gpt-4-turbo/)
 
 # 工具
-[金山文档](https://www.kdocs.cn/latest?from=docs)
+[金山文档](https://www.kdocs.cn/latest?from=docs) <!-- icon:https://qn.cache.wpscdn.cn/encs/file-template/favicon.ico -->
 [DeepL](https://www.deepl.com/zh/translator)
 - 资源  
   - [不死鸟](https://iui.su/)
@@ -57,7 +57,7 @@
   - [中华人民共和国药典](https://ydz.chp.org.cn/#/main)
   - [中药材图像数据库](https://sys01.lib.hkbu.edu.hk/cmed/mmid/index.php?page=1&sort=name_cht&lang=chs)
   - [药用植物图像数据库](https://sys01.lib.hkbu.edu.hk/cmed/mpid/index.php?lang=chs)
-  - [花卉图片网](http://www.fpcn.net/index.html)
+  - [花卉图片网](http://www.fpcn.net/index.html)  <!-- icon:http://www.fpcn.net/static/web/img/favicon.ico -->
   - [植物通--植物数据库-zhiwutong](https://www.zhiwutong.com/)
   - [Global Plants on JSTOR](https://plants.jstor.org/)
 
@@ -77,10 +77,10 @@
 [微信网页版](https://wx2.qq.com/) <!-- icon:https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico -->
 
 # 书籍
-[全国图书馆参考咨询联盟](http://www.ucdrs.superlib.net/)
+[全国图书馆参考咨询联盟](http://www.ucdrs.superlib.net/) <!-- icon:https://ts2.tc.mm.bing.net/th?id=ODLS.d25282e9-594e-44d9-8e72-4007cdff124c&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2 -->
 [豆瓣读书](https://book.douban.com/)
 [微信读书](https://weread.qq.com/)
-[鸠摩搜索](https://www.jiumodiary.com/)
+[鸠摩搜索](https://www.jiumodiary.com/) <!-- icon:https://www.jiumodiary.com/images/favicon.png -->
 - 资源
   - [掌阅书城](http://www.ireader.com/index.php?ca=channel.index&pca=search.index)
   - [苦瓜书盘](https://kgbook.com/)
@@ -95,8 +95,8 @@
 [快手](https://www.kuaishou.com/)
 [B站](https://www.bilibili.com/)
 [网易公开课](https://open.163.com/)
-[中国大学MOOC_优质在线课程学习平台](https://www.icourse163.org/)
-[爱课程](https://www.icourses.cn/home/)
+[中国大学MOOC_优质在线课程学习平台](https://www.icourse163.org/) <!-- icon:https://ts2.tc.mm.bing.net/th?id=ODLS.6b334732-754d-414b-b224-c599d9675b1f&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2 -->
+[爱课程](https://www.icourses.cn/home/) <!-- icon:https://www.icourses.cn/web/favicon.ico -->
 [经济学人双语版|可可英语](https://m.kekenet.com/Article/media/economist/)
 
 # 网购
@@ -152,14 +152,14 @@
 
 # 区块链
 [比特币ahr999](https://www.coinglass.com/zh/pro/i/ahr999) <!-- icon:https://cdn.coinglasscdn.com/static/icon_200.png -->
-[PANews](https://www.panewslab.com/zh/index.html)
-[BlockBeats](https://www.theblockbeats.info/)
+[PANews](https://www.panewslab.com/zh/index.html) <!-- icon:https://image.panewslab.com/images/favicon.ico -->
+[BlockBeats](https://www.theblockbeats.info/) <!-- icon:https://image.blockbeats.cn/icon/favicon.ico -->
 
 # 资讯
 [每日新闻｜leesoar的官方网站](https://leesoar.com/news)
 [今日头条](https://www.toutiao.com/)
 
-# 下载
-[百度网盘](https://pan.baidu.com/)
+# 网盘
+[百度网盘](https://pan.baidu.com/) <!-- icon:https://nd-static.bdstatic.com/m-static/wp-brand/favicon.ico -->
 [腾讯微云](https://www.weiyun.com/)
-[阿里云盘](https://www.aliyundrive.com/)
+[阿里云盘](https://www.alipan.com/) <!-- icon:https://img.alicdn.com/imgextra/i1/O1CN01JDQCi21Dc8EfbRwvF_!!6000000000236-73-tps-64-64.ico -->
